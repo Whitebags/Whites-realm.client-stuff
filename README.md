@@ -1,2 +1,7 @@
 # Whites-realm.client-stuff
-This is the updates client for my server Whites realm ( ROTMG )
+Update: V1.0.04
+Added over 10new custom items
+Added over 5 new maps
+Added new youtuber rank
+Adding a new Anti-Cheat
+and some nerfes and bug fixes
